@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Service Booking App</string>
+
+    <string-array name="spinner_items">
+        <item>Customer</item>
+        <item>Service</item>
+    </string-array>
+
+    <string-array name="service_types">
+        <item>Plumbing</item>
+        <item>Electrical</item>
+        <item>Cleaning</item>
+        <item>Other</item>
+    </string-array>
+</resources>
