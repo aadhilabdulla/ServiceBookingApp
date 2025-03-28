@@ -20,6 +20,25 @@ A simple service booking application where home users can create service request
 
 - Firebase Firestore - Database
 
-- Firebase Authentication - User Management
+- Firebase Phone Number Authentication - User Management
 
 - Gradle - Dependency Management
+
+## 🔧 Setup Instructions
+
+- Clone the Repository
+
+- git clone https://github.com/your-username/ServiceBookingApp.git
+- cd ServiceBookingApp
+
+- Open in Android Studio
+
+- Connect Firebase
+
+- Add the project SHA-1 key to your project structure
+
+- Add your google-services.json to app/
+
+- Enable Firebase Phone Number Authentication & Firestore in Firebase Console
+
+- Build & Run the App 🚀
