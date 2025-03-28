@@ -13,3 +13,13 @@ A simple service booking application where home users can create service request
 - 🎨 Basic UI (planned for improvements)
 
 - ⚡ Quick prototype for testing
+
+## 🛠️ Tech Stack
+
+- Android (Jetpack Compose/XML) - Frontend
+
+- Firebase Firestore - Database
+
+- Firebase Authentication - User Management
+
+- Gradle - Dependency Management
