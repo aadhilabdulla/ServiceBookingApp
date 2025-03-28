@@ -28,7 +28,7 @@ A simple service booking application where home users can create service request
 
 1. Clone the Repository
 
-2. git clone https://github.com/your-username/ServiceBookingApp.git
+2. git clone https://github.com/aadhilabdulla/ServiceBookingApp.git
 
 3. cd ServiceBookingApp
 
