@@ -32,7 +32,7 @@ A simple service booking application where home users can create service request
 
 3. cd ServiceBookingApp
 
-4. 4.Open in Android Studio
+4. Open in Android Studio
 
 5. Connect Firebase
 
